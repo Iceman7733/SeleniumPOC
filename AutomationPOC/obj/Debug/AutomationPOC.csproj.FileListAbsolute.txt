@@ -1,0 +1,16 @@
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\AutomationPOC.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\AutomationPOC.pdb
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\WebDriver.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\obj\Debug\AutomationPOC.csprojAssemblyReference.cache
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\obj\Debug\AutomationPOC.csproj.CoreCompileInputs.cache
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\obj\Debug\AutomationPOC.csproj.CopyComplete
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\obj\Debug\AutomationPOC.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\obj\Debug\AutomationPOC.pdb
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\nunit.framework.dll
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\nunit.framework.pdb
+C:\Users\burchettj\source\repos\AutomationPOC\AutomationPOC\bin\Debug\Newtonsoft.Json.dll
